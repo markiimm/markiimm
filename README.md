@@ -58,10 +58,3 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markiimm&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas de Marcos" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markiimm&layout=compact&langs_count=10&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
