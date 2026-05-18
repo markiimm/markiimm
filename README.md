@@ -2,8 +2,8 @@
 
 <p align="center">
   🚀 <strong>Desenvolvedor Fullstack em formação</strong><br>
-  Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologias modernas como <strong>React</strong>, <strong>Next.js</strong> e <strong>TypeScript</strong>.<br>
-  Busco minha primeira oportunidade como desenvolvedor júnior para aplicar meus conhecimentos e crescer profissionalmente.
+  Formado de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologias modernas como <strong>React</strong>, <strong>Next.js</strong> e <strong>TypeScript</strong>.<br>
+  Busco oportunidade como desenvolvedor júnior para aplicar meus conhecimentos e crescer profissionalmente.
 </p>
 
 <hr/>
@@ -65,11 +65,3 @@
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markiimm&layout=compact&langs_count=10&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
-
----
-
-## 🏆 Conquistas GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=markiimm&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
