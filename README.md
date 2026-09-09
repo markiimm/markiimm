@@ -27,13 +27,15 @@
 
 ### Sobre
 
-Comecei pelo básico — HTML e CSS — pelo mesmo motivo que muita gente começa: queria ver na tela algo que eu tinha escrito. A diferença é que não parei na primeira página pronta.
+Desenvolvedor Front-End em formação contínua, com foco em React, JavaScript (ES6+) e boas práticas de desenvolvimento web.
 
-Hoje construo interfaces com **React, Next.js e TypeScript**, com foco em componentização, responsividade e acessibilidade. Em paralelo, atuo com **suporte técnico N2** — redes, VPN, integração de sistemas e infraestrutura em ambiente de produção.
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas (UNICSUL), com base sólida em lógica de programação, banco de dados, POO, engenharia de software e metodologias ágeis.
 
-Essa combinação mudou o jeito que escrevo código. Quem já foi acionado porque um sistema caiu passa a se importar com mensagem de erro clara, log útil e o que acontece quando a requisição falha.
+Atuo com suporte técnico e infraestrutura de redes, uma bagagem pouco comum para um dev front-end: entendimento de redes, APIs, integração de sistemas e ambientes de produção, o que facilita minha comunicação com times de backend e infraestrutura.
 
-**Formado em Análise e Desenvolvimento de Sistemas** pela Universidade Cruzeiro do Sul.
+Busco minha primeira oportunidade como Desenvolvedor Front-End ou Desenvolvedor Web.
+
+💻 Portfólio: markimwebsite.vercel.app 🔗 GitHub: github.com/markiimm 📩 Aberto a conexões e oportunidades.
 
 ---
 
