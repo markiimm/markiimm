@@ -11,8 +11,8 @@
   <a href="mailto:mavsoares.oliveira@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-mavsoares.oliveira-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="https://olie-pi.vercel.app">
-    <img src="https://img.shields.io/badge/Projeto_olie-online-111827?style=flat-square&logo=vercel&logoColor=white" alt="Projeto olie online">
+  <a href="https://my-new-portifolio-rosy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-online-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio online">
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Atuo com suporte técnico e infraestrutura de redes, uma bagagem pouco comum par
 
 Busco minha primeira oportunidade como Desenvolvedor Front-End ou Desenvolvedor Web.
 
-💻 Portfólio: markimwebsite.vercel.app 🔗 GitHub: github.com/markiimm 📩 Aberto a conexões e oportunidades.
+💻 Portfólio: my-new-portifolio-rosy.vercel.app 🔗 GitHub: github.com/markiimm 📩 Aberto a conexões e oportunidades.
 
 ---
 
@@ -107,10 +107,11 @@ Uso ferramentas de IA todos os dias — e acho que vale dizer **como**, porque a
 
 | Projeto | O que é | Stack | Último commit |
 | :--- | :--- | :--- | :--- |
+| **[confirm](https://github.com/markiimm/confirm)** · [ver online](https://confirm-indol.vercel.app) | Confirmô — SaaS de confirmação de presença via WhatsApp, com painel em tempo real | React · Tailwind · Vercel | ![](https://img.shields.io/github/last-commit/markiimm/confirm?style=flat-square&label=) |
+| **[centraldeoperacao](https://github.com/markiimm/centraldeoperacao)** · [ver online](https://centraldeoperacao.vercel.app) | Dashboard da minha rotina real como analista de suporte N2: câmeras, dispositivos, SLA | HTML · CSS · JS | ![](https://img.shields.io/github/last-commit/markiimm/centraldeoperacao?style=flat-square&label=) |
+| **[devhub-app](https://github.com/markiimm/devhub-app)** | devHub — hub pessoal para devs documentarem o que constroem, com Dev Brain e Vaults | Next.js · TypeScript · Supabase | ![](https://img.shields.io/github/last-commit/markiimm/devhub-app?style=flat-square&label=) |
+| **[projeto-figpro1](https://github.com/markiimm/projeto-figpro1)** · [ver online](https://projeto-figpro1.vercel.app) | FigPro — replicação pixel-perfect de um design do Figma, sem framework | HTML · CSS | ![](https://img.shields.io/github/last-commit/markiimm/projeto-figpro1?style=flat-square&label=) |
 | **[olie](https://github.com/markiimm/olie)** · [ver online](https://olie-pi.vercel.app) | Site institucional completo, do zero ao deploy contínuo | HTML · CSS · JS | ![](https://img.shields.io/github/last-commit/markiimm/olie?style=flat-square&label=) |
-| **[steam-project](https://github.com/markiimm/steam-project)** | Recriação da interface da Steam — exercício de precisão em CSS | HTML · CSS · JS | ![](https://img.shields.io/github/last-commit/markiimm/steam-project?style=flat-square&label=) |
-| **[fifa-worldcup](https://github.com/markiimm/fifa-worldcup-codelandia)** | Página temática com identidade visual construída em CSS puro | HTML · CSS | ![](https://img.shields.io/github/last-commit/markiimm/fifa-worldcup-codelandia?style=flat-square&label=) |
-| **[curriculum-new](https://github.com/markiimm/curriculum-new)** | Currículo em formato web, responsivo e semântico | HTML · CSS | ![](https://img.shields.io/github/last-commit/markiimm/curriculum-new?style=flat-square&label=) |
 
 ---
 
